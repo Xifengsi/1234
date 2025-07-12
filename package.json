@@ -1,4 +1,3 @@
-
 {
   "name": "hapticnova",
   "version": "1.0.0",
@@ -17,6 +16,8 @@
     "postcss": "^8.4.21"
   },
   "devDependencies": {
-    "typescript": "^5.1.3"
+    "typescript": "^5.1.3",
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.5.6"
   }
 }
